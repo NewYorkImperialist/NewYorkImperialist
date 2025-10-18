@@ -1,4 +1,4 @@
-# Hi, I'm NewYorkImperialist!
+# Hi, I'm Jayden Lin!
 
 🎓 **Mathematics Student at Northeastern University**  
 📚 **Mathematics Tutor**
