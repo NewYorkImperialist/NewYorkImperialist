@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm NewYorkImperialist!
 
-<!--
-**NewYorkImperialist/NewYorkImperialist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Mathematics Student at Northeastern University**  
+📚 **Mathematics Tutor**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages & Tools
+- Python, Java, C/C++, JavaScript, Rust, LaTeX
+
+### 🖥 Projects
+- **(ONGOING) 8-Ball** – Partner project
+- **2048** – AP CSA project
+
+---
+
+### 🌱 Interests
+- Exploring different topics in math for later pursuit
+- Learning about history and non-STEM topics
+- Running, reading
+
+[Connect with me on LinkedIn](#https://www.linkedin.com/in/jaydenlin1/)
+
+---
+
+### 🎲 Fun Fact
+I have solved a Rubik's cube in **7.82 seconds**!
