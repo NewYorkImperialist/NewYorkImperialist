@@ -8,9 +8,10 @@
 ### 🛠 Languages & Tools
 - Python, Java, C/C++, JavaScript, Rust, LaTeX
 
-### 🖥 Projects
-- **(ONGOING) 8-Ball** – Partner project
-- **2048** – AP CSA project
+### 🖥 Ongoing Projects
+- **8-Ball** – Partner project: TBD, hopes is for my end to be working on the physics side of things and partner to work on UI and design then merge projects together
+- **Northeastern Directed Reading Program** - Using Gurobi Python Library for Operations Research Optimization Models, making a daily schedule project with constraints and MILP to determine feasibility and learn from the results 
+- **Notes** – Transcribing academic notes with LaTeX, uploading coursework, figuring out git repos, and vim
 
 ---
 
