@@ -13,6 +13,7 @@
 - **8-Ball** 
 - **Northeastern Directed Reading Program** - Using Gurobi Python Library for Operations Research Optimization Models, making a daily schedule project with constraints and MILP to determine feasibility and learn from the results 
 - **Notes** – Transcribing academic notes with LaTeX, uploading coursework
+- [**CodeWars!!!**](https://www.codewars.com/users/NewYorkImperialist/)
 - [**Project Euler!!!**](https://projecteuler.net/)
 
 ---
