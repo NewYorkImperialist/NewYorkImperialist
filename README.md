@@ -1,6 +1,6 @@
 # Hi, I'm Jayden Lin!
 
-🎓 **Mathematics Student at Northeastern University**  
+🎓 **Mathematics & Computer Science Student at Northeastern University**  
 📚 **Mathematics Tutor**
 
 ---
