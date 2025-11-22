@@ -49,4 +49,4 @@
 ---
 
 ### 🎲 Fun Fact
-I have solved a Rubik's cube in **7.82 seconds**!
+### I have solved a Rubik's cube in **7.82 seconds**!
