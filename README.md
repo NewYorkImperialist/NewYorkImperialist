@@ -48,5 +48,3 @@
 
 ### 🎲 Fun Fact
 I have solved a Rubik's cube in **7.82 seconds**!
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/jaydenlin1/)
