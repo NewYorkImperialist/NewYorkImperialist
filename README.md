@@ -1,5 +1,6 @@
 # Hi, I'm Jayden Lin!
 
+### My goal is to explore how to use the full potential of computers through programming.
 <!--
 ### Mathematics & Computer Science Student at Northeastern University  
 
