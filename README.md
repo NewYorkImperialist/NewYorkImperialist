@@ -1,6 +1,6 @@
 # Hi, I'm Jayden Lin!
 
-Carbon based life-form
+Carbon based life form
 <!--
 ### My goal is to explore how to use the full potential of computers through programming.
 
