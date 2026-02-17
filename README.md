@@ -57,3 +57,15 @@ Carbon based life form
 <p>
   <img align="left" src="https://www.codewars.com/users/NewYorkImperialist/badges/large" />
 </p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NewYorkImperialist&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NewYorkImperialist&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NewYorkImperialist&theme=dark" alt="GitHub Streak" />
+</p>
