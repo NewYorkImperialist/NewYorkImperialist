@@ -1,6 +1,11 @@
 # Hi, I'm Jayden Lin!
 
 Carbon based life form
+
+<p>
+  <img align="left" src="https://www.codewars.com/users/NewYorkImperialist/badges/large" />
+</p>
+
 <!--
 ### My goal is to explore how to use the full potential of computers through programming.
 
